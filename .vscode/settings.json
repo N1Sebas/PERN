@@ -1,0 +1,13 @@
+{
+  //asi se ignoran carpetas, NO SE BORRAN, solo desaparecen para que no molesten
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "node_modules": true,
+    "client/node_modules": true
+  }
+}

@@ -1,0 +1,5 @@
+//especificamos que documentos debe ignorar
+node_modules
+
+
+.env
